@@ -7,7 +7,6 @@ while row_index < src.count do
  element_index = 0
  if element_index == String do
    array << element_index
- else if element == Integers 
    element_index += 1
  end
  row_index += 1
