@@ -6,7 +6,7 @@ row_index = 0
 while row_index < src.count do 
   element_index = 0 
   while element_index == String 
-  phrase += element_index 
+  phrase += element_index.to_string 
   element_index += 1 
   end 
 row_index += 1 
