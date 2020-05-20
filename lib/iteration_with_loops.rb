@@ -5,8 +5,9 @@ row_index = 0
 array = [] 
 while row_index < src.count do 
   element_index = 0 
-  while if element_index == String 
+  if element_index == String 
   array << element_index 
+else if element_index 
 end 
 element_index += 1 
 end 
