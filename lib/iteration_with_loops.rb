@@ -8,6 +8,8 @@ while row_index < src.count do
   while element_index == String 
   array << element_index 
 end 
+element_index += 1 
+end 
 row_index += 1 
 end 
 array_join = array.join(" ")
