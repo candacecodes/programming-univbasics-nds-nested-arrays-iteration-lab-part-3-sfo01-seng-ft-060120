@@ -8,6 +8,5 @@ while row_index < src.count do
   array << element_index 
 end 
 row_index += 1 
-end
-array 
+
 end 
