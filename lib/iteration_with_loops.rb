@@ -14,4 +14,3 @@ row_index += 1
 end 
 array_join = array.join(" ")
 array_join 
-end 
