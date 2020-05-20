@@ -5,8 +5,10 @@ phrase = ""
 row_index = 0 
 while row_index < src.count do 
   element_index = 0 
-  while element_index == String 
-  phrase += element_index.to_string 
+  while element_index < src[row_index].count
+  if element_index == string 
+  phrase += element_index
+end 
   element_index += 1 
   end 
 row_index += 1 
