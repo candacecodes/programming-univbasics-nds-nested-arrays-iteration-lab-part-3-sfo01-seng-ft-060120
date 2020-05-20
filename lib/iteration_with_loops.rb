@@ -12,5 +12,4 @@ element_index += 1
 end 
 row_index += 1 
 end 
-array_join = array.join(" ")
-array_join 
+array = array.join(" ")
