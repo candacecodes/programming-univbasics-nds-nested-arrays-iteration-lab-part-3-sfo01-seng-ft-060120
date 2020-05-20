@@ -7,7 +7,7 @@ while row_index < src.count do
   element_index = 0 
   if element_index == String 
   array << element_index 
-else if element_index 
+else  
 end 
 element_index += 1 
 end 
