@@ -8,7 +8,7 @@ while row_index < src.count do
   while element_index < src[row_index].count do 
     if element_index == String 
       phrase += element_index
-    else if element_index == #not string? 
+    else #not string? 
       phrase += ""
     end 
   element_index += 1 
