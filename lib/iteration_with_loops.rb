@@ -10,5 +10,6 @@ while row_index < src.count do
 end 
 row_index += 1 
 end 
-array_join = array
+array_join = array.join(" ")
+array_join 
 end 
