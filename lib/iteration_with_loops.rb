@@ -9,7 +9,6 @@ while row_index < src.count do
     if element_index = String 
       phrase = phrase + `${element_index}` 
     else #not string? 
-      phrase += ""
     end 
   element_index += 1 
   end 
