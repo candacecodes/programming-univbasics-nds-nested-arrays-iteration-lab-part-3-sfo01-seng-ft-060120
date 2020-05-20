@@ -7,7 +7,7 @@ while row_index < src.count do
   element_index = 0 
   while element_index < src[row_index].count do 
     if element_index = String 
-      phrase = phrase + {element_index} 
+      phrase = phrase + `${element_index}` 
     else #not string? 
       phrase += ""
     end 
